@@ -1,3 +1,3 @@
-# Laradir
+# Laradevs
 
-_Where The Laravel Devs Are_
+The biggest directory of Laravel developers on the planet.
